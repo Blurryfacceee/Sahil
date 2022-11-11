@@ -1,0 +1,10 @@
+[  {"id": "01", "isActive": false ,"is_online": true, "sector_unit": "Skyline", "org": "IT", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 1, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "02", "isActive": true ,"is_online": true, "sector_unit": "AcroCorp", "org": "Architect", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 2, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "03", "isActive": true ,"is_online": true, "sector_unit": "Brownwood", "org": "Tech", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 3, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "04", "isActive": true ,"is_online": true, "sector_unit": "Skyline", "org": "IT", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 4, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "05", "isActive": true ,"is_online": true, "sector_unit": "AcroCorp", "org": "Architect", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 5, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "06", "isActive": true ,"is_online": true, "sector_unit": "Brownwood", "org": "Tech", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 6, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "07", "isActive": true ,"is_online": true, "sector_unit": "Skyline", "org": "IT", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 7, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "08", "isActive": true ,"is_online": true, "sector_unit": "AcroCorp", "org": "Architect", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 8, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""},
+  {"id": "09", "isActive": true ,"is_online": true, "sector_unit": "Brownwood", "org": "Tech", "org_code": "Data", "customer": "Acro", "branch_ID": "Data", "job_code": 9, "Miscellaneous": "Data", "SOW_Miscellaneous": "Data", "action": ""}
+  ]
