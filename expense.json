@@ -1,11 +1,11 @@
 [
- {"id": "01","isActive":"true", "business_unit": "Skyline", "expense_type": "Exp 2", "expense_type_code": "112", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"Yes", "action": "" },
+ {"id": "01","isActive":"false", "business_unit": "Skyline", "expense_type": "Exp 2", "expense_type_code": "112", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"Yes", "action": "" },
   {"id": "02","isActive":"true", "business_unit": "Skyline", "expense_type": "Exp 1", "expense_type_code": "111", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"No", "action": "" },
   {"id": "03","isActive":"true", "business_unit": "Skyline", "expense_type": "Vacational Training", "expense_type_code": "777", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"No", "action": "" },
   {"id": "04","isActive":"true", "business_unit": "Skyline", "expense_type": "ISMS Training", "expense_type_code": "78", "visible_to_clp":"No", "amount_entered_with_msp_fee":"No","action": "" },
   {"id": "05","isActive":"true", "business_unit": "Skyline", "expense_type": "Concur Expense", "expense_type_code": "6E", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"No", "action": "" },
   {"id": "06","isActive":"true", "business_unit": "Skyline", "expense_type": "Mileage", "expense_type_code": "Miles01", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"Yes", "action": "" },
   {"id": "07","isActive":"true", "business_unit": "Skyline", "expense_type": "Workshop", "expense_type_code": "Workshop", "visible_to_clp":"No", "amount_entered_with_msp_fee":"Yes", "action": "" },
-  {"id": "08","isActive":"true", "business_unit": "Skyline", "expense_type": "Misc", "expense_type_code": "2222", "visible_to_clp":"No", "amount_entered_with_msp_fee":"Yes", "action": "" },
+  {"id": "08","isActive":"false", "business_unit": "Skyline", "expense_type": "Misc", "expense_type_code": "2222", "visible_to_clp":"No", "amount_entered_with_msp_fee":"Yes", "action": "" },
   {"id": "09","isActive":"true", "business_unit": "Skyline", "expense_type": "Skylin1215", "expense_type_code": "1234", "visible_to_clp":"Yes", "amount_entered_with_msp_fee":"No", "action": "" }
 ]
