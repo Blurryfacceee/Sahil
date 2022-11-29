@@ -1,3 +1,14 @@
-[{"text":"AcroCorp","value":"1"},
-{"text":"Brownwood","value":"2"},
-{"text":"Skyline","value":"3"}]
+[
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Honeywell",
+    "value": "a9cf4d9a-d00a-4685-8b26-74dd670b6965"  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Kellogg",
+    "value": "8e83e4e6-628e-446c-9b11-3c1a80cb7977"  }
+]
