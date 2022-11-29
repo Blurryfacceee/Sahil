@@ -1,0 +1,63 @@
+{
+  "result": null,
+  "value": {
+    "validationMessages": [],
+    "statusCode": 200,
+    "succeeded": true,
+    "message": "Success",
+    "data": {
+      "totalCount": 4,
+      "recordNumber": 10,
+      "items": [
+        {
+          "ukey": "86BB31B6-1720-4BA8-BBE1-0FC41AEBA8B6",
+          "expenseTypeName": "Computers",
+          "sectorId": 1,
+          "active": true,
+          "createdBy": 2,
+          "createdOn": "2022-11-18T11:54:23.887",
+          "lastModifiedBy": null,
+          "lastModifiedOn": "2022-11-18T08:45:04.02",
+          "expenseSortOrder": 123,
+          "isVisibleToClp": true,
+          "isMSPFeeAdded": true        },
+        {
+          "ukey": "CB6BE981-F69C-404F-8466-389DCF43A3DE",
+          "expenseTypeName": "Telecommunication",
+          "sectorId": 2,
+          "active": true,
+          "createdBy": 2,
+          "createdOn": "2022-11-18T11:54:23.887",
+          "lastModifiedBy": null,
+          "lastModifiedOn": "2022-11-18T08:46:05.27",
+          "expenseSortOrder": 326,
+          "isVisibleToClp": true,
+          "isMSPFeeAdded": true        },
+        {
+          "ukey": "C7B013BE-A9D3-493B-89D9-37815A43D544",
+          "expenseTypeName": "aerospace",
+          "sectorId": 1,
+          "active": true,
+          "createdBy": 1,
+          "createdOn": "2022-11-23T07:40:43.603",
+          "lastModifiedBy": null,
+          "lastModifiedOn": "2022-11-23T02:43:48.7",
+          "expenseSortOrder": 2,
+          "isVisibleToClp": true,
+          "isMSPFeeAdded": true        },
+        {
+          "ukey": "95D60840-D0F9-49E6-A45B-79FC9DFEBF89",
+          "expenseTypeName": "1Up23",
+          "sectorId": 1,
+          "active": true,
+          "createdBy": 1,
+          "createdOn": "2022-11-23T07:50:21.718",
+          "lastModifiedBy": null,
+          "lastModifiedOn": "2022-11-23T08:12:54.957",
+          "expenseSortOrder": 2,
+          "isVisibleToClp": false,
+          "isMSPFeeAdded": true        }
+      ],
+      "pageNumber": 1    }
+  }
+}
